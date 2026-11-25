@@ -1,0 +1,17 @@
+
+song_id,song_title,artist,genre,mood,weather_theme,time_theme
+1,Sunrise Dreams,Demo Artist A,pop,happy,sunny,morning
+2,Rainy Window,Demo Artist B,indie,calm,rain,evening
+3,Power Beat,Demo Artist C,hip hop,energetic,summer,afternoon
+4,Midnight Thoughts,Demo Artist D,indie,sad,cloudy,night
+5,Happy Journey,Demo Artist E,pop,happy,sunny,morning
+6,Peaceful Mind,Demo Artist F,classical,calm,rain,night
+7,Workout Fire,Demo Artist G,hip hop,energetic,summer,afternoon
+8,Romantic Evening,Demo Artist H,romantic,romantic,rain,evening
+9,Study Focus,Demo Artist I,classical,neutral,cloudy,morning
+10,Party Lights,Demo Artist J,pop,party,sunny,night
+11,Winter Melody,Demo Artist K,indie,calm,winter,evening
+12,Travel Highway,Demo Artist L,pop,energetic,sunny,afternoon
+13,Soft Rain,Demo Artist M,classical,calm,rain,night
+14,Energy Rush,Demo Artist N,hip hop,energetic,summer,morning
+15,Love Story,Demo Artist O,pop,romantic,cloudy,evening
